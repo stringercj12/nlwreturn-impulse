@@ -25,4 +25,8 @@ routes.post("/feedbacks", async (req, res) => {
   }
 });
 
+routes.get("/", async (req, res) => {
+  return res.status(201).send("HTTP server running");
+});
+
 export { routes };
