@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/preview.png"/>
+    <img alt="Git Explorer" src="./.github/preview.jpg"/>
 </p>
 
 <h1 align="center">
@@ -12,11 +12,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
 
   <a href="https://github.com/stringercj12">
-    <img alt="Made by Jefferson Ferreira" src="https://img.shields.io/badge/Made%20by-Jefferson%Ferreira-2ecc71">
+    <img alt="Made by Jefferson Ferreira" src="https://img.shields.io/badge/Made%20by-Jefferson%20Ferreira-2ecc71">
   </a>
 
   <a href="https://www.linkedin.com/in/jefferson-ferreira-8218b0126/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-jefferson-ferreira-2ecc71?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Linkedin-Jefferson%20Ferreira-539bf5" />
   </a>
 </p>
 
