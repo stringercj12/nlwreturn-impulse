@@ -16,9 +16,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/jefferson-ferreira-8218b0126/" target="_blank">
-<img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Follow me Linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Linkedin-Jefferson%20Ferreira-539bf5" />
   </a>
 </p>
 
