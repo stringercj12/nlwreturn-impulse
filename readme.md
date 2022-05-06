@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/Capa.png"/>
+    <img alt="Git Explorer" src="./.github/preview.png"/>
 </p>
 
 <h1 align="center">
